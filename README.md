@@ -4,4 +4,4 @@ A simple Chat UI for testing [ollama](https://github.com/ollama/ollama). All cha
 
 To get started, change the `mainurl` and `modelname` variable in `app.js` and start chatting with ollama.
 
-Demo : [MiniLLM](https://ora.zuka.one/minillm/)
+Demo : [MiniLLM](https://zuka.one/minillm/)
